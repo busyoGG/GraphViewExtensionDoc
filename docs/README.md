@@ -8,7 +8,7 @@
 * 项目工程见[GraphViewExtension](https://github.com/busyoGG/GraphViewExtension)。
 * 自定义节点需要继承 `RootNode`。
 * 如果需要自定义 GraphView，则需要继承 `GGraph`。
-* 本项目编辑器配合使用[ReflectionBindUI](https://github.com/busyoGG/ReflectionBindUI)。
+* 本项目编辑器配合使用[EditorUIExtention](https://github.com/busyoGG/EditorUIExtention)。
 * 项目原理说明见 [Untiy-节点编辑器开发优化框架 GraphViewExtension](https://busyo.buzz/article/1166dedab522/)。
 
 <!-- * `_sidebar.md` 文件为侧边栏导航配置文件。 -->

@@ -66,6 +66,10 @@ private string _test1 = "";
 1. 宽度，float 类型。
 2. 宽度种类，LengthUnit 类型，像素或百分比。
 
+**`GColor` 参数**
+
+一共四个参数，对应 r, g, b, a
+
 **初始化**
 
 通过重写 InitConfig 方法可以初始化原始 Node UI 需要的字段值，例如：
